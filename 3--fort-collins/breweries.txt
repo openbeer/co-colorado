@@ -5,4 +5,38 @@
   4025 S Mason St //  Fort Collins, CO 80525-5953
   www.1933brewing.com
 
+[]
+  Equinox Brewing
+  133 Remington St //  Fort Collins, CO 80524-2833
+  www.equinoxbrewing.com
+
+[]
+  Fort Collins Brewery
+  1020 E Lincoln Ave // Fort Collins, CO 80524-2509
+  www.fortcollinsbrewery.com
+
+[]
+  Funkwerks
+  1900 E Lincoln Ave Unit B //  Fort Collins, CO 80524-2789
+  www.funkwerks.com
+
+[]
+  Horse & Dragon Brewing Company
+  124 Racquette Dr //  Fort Collins, CO 80524-2757
+  www.horseanddragonbrewing.com
+
+[]
+  Pateros Creek Brewing
+  242 N College Ave //  Fort Collins, CO 80524-2405
+  www.pateroscreekbrewing.com
+
+[]
+  Snowbank Brewing
+  225 9th St //  Fort Collins, CO 80524-2565
+  www.snowbankbrewingco.com
+
+[]
+  Zwei Bruder Brewing
+  4612 S Mason St Ste 120 //  Fort Collins, CO 80525-3741
+  www.zweibruderbrewing.com
 

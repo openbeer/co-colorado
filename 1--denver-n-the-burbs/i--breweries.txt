@@ -1,10 +1,7 @@
 
-
-_______________________________
-- Denver
-
 [flyingdog]
   Flying Dog
+  // Denver, CO
 
 [wynkoop]
   Wynkoop
@@ -13,4 +10,184 @@ _______________________________
 [crookedstave]
   Crooked Stave Artisan Beer Project
   // Denver, CO
+
+
+
+
+[]
+  Baere Brewing Company
+  320 Broadway Ste E // Denver, CO 80203-3955
+  www.baerebrewing.com
+
+
+[]
+  Beryl's Beer Co
+  3120-C Blake St //  Denver, CO 80205-2307
+  www.berylsbeercompany.com
+
+
+[]
+  Black Shirt Brewing Co
+  3719 Walnut St //  Denver, CO 80205-2436
+  www.blackshirtbrewingco.com
+
+[]
+  Caution: Brewing Company
+  12445 E 39th Ave Unit 314 //  Denver, CO 80239-3456
+  www.cautionbrewingco.com
+
+[]
+  Chain Reaction Brewing Company
+  902 S Lipan St //  Denver, CO 80223-2717
+  www.chainreactionbrewingco.com
+
+
+[]
+  Comrade Brewing Company
+  7667 E Iliff Ave Ste F //  Denver, CO 80231-5361
+  www.comradebrewing.com
+
+
+[]
+  Copper Kettle Brewing Company
+  1338 S Valentia St Ste 100 //  Denver, CO 80247-2167
+  www.copperkettledenver.com
+
+
+
+[]
+  Crooked Stave Artisan Beer Project
+  1441 W 46th Ave Unit 19 //  Denver, CO 80211-2338
+  www.crookedstave.com
+
+
+[]
+  De Steeg Brewing Co
+  4342 Tennyson St //  Denver, CO 80212-2308
+  www.desteegbrewing.com
+
+[]
+  Denver Beer Co
+  1695 Platte St //  Denver, CO 80202-1123
+  www.denverbeerco.com
+
+[]
+  Diebolt Brewing
+  3855 Mariposa St //  Denver, CO 80211-2647
+  www.dieboltbrewing.com
+
+
+[]
+  Epic Brewing Co., LLC
+  3001 Walnut St //  Denver, CO 80205-2324
+  www.epicbrewing.com
+
+
+
+[]
+  Former Future Brewing Co
+  1290 S Broadway //  Denver, CO 80210-1504
+  www.formerfuturebrewingcompany.com
+
+
+[]
+  Hogshead Brewery
+  4430 W 29th Ave //  Denver, CO 80212-3015
+  www.hogsheadbrewery.com
+
+
+[]
+  Jagged Mountain Brewery
+  1139 20th St //  Denver, CO 80202-1811
+  www.jaggedmountainbrewery.com
+
+
+[]
+  Lost Highway Brewing
+  520 E Colfax Ave //  Denver, CO 80203-2018
+  www.losthighwaybrewing.com
+
+
+[]
+  Our Mutual Friend Malt & Brew
+  2810 Larimer St //  Denver, CO 80205-2223
+  www.omfmb.com
+
+
+[]
+  Platt Park Brewing Co.
+  1875 S Pearl St //  Denver, CO 80210-3136
+  www.denverpearlbrewing.com
+
+[]
+  Prost Brewing
+  2540 19th St //  Denver, CO 80211-3910
+  www.prostbrewing.com
+
+
+[]
+  Renegade Brewing Company
+  925 W 9th Ave //  Denver, CO 80204-4338
+  www.renegadebrewing.com
+
+[]
+  River North Brewery
+  2401 Blake St Unit 1 //  Denver, CO 80205-2251
+  www.rivernorthbrewery.com
+
+
+[]
+  Station 26 Brewing Co
+  7045 E 38th Ave //  Denver, CO 80207-1541
+  www.station26brewing.co
+
+
+
+[]
+  Strange Craft Beer Co
+  1330 Zuni St Ste M //  Denver, CO 80204-2328
+  www.strangecraft.com
+
+
+[]
+  TRVE Brewing Co
+  227 Broadway # 101 //  Denver, CO 80203-5940
+  www.trvebrewing.com
+
+
+
+[]
+  Wit's End Brewing Co
+  2505 W 2nd Ave Unit 13 // Denver, CO 80219-1655
+  www.witsendbrewing.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

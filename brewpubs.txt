@@ -16,30 +16,14 @@
   PO Box 2910 //  Frisco, CO 80443-2910
   www.backcountrybrewery.com
 
-[]
-  Barrels & Bottles Brewery
-  600 12th St Ste 180 // Golden, CO 80401-6145
-  www.barrelsbottles.com
 
 []
   BierWerks
   121 E. Midland Ave //  Woodland Park, CO 80863
   www.bierwerks.com
 
-[]
-  BJs Restaurant & Brewery - Boulder
-  1690 28th St //  Boulder, CO 80301-1002
-  www.bjsrestaurants.com
 
-[]
-  Black Bottle Brewery
-  1611 S College Ave Ste 1605& # 1609 //  Fort Collins, CO 80525-1074
-  www.blackbottlebrewery.com
 
-[]
-  Black Sky Brewery
-  490 Santa Fe Dr //  Denver, CO 80204-5024
-  www.blackskybrewing.com
 
 []
   Blue Spruce Brewing
@@ -56,15 +40,7 @@
   117 W College Dr //  Durango, CO 81301-5407
   www.brewpubkitchen.com
 
-[]
-  BRU Handbuilt Ales and Eats
-  5290 Arapahoe Ave //  Boulder, CO 80303-1269
-  www.bruboulder.com
 
-[]
-  Bull and Bush Pub and Brewery
-  4700 E Cherry Creek South Dr //  Denver, CO 80246-1819
-  www.bullandbush.com
 
 []
   C.B. and Potts/Big Horn Brewery - Broomfield
@@ -76,10 +52,6 @@
   6575 Greenwood Plaza Blvd //  Englewood, CO 80111-4933
   www.cbpotts.com
 
-[]
-  C.B. and Potts/Big Horn Brewery - Fort Collins
-  1415 W Elizabeth St //  Fort Collins, CO 80521-4440
-  www.cbpotts.com
 
 []
   C.B. and Potts/Big Horn Brewery - Highlands Ranch
@@ -101,10 +73,6 @@
   1022 Main Ave //  Durango, CO 81301-5124
   www.carverbrewing.com
 
-[]
-  ChopHouse and Brewery - Denver
-  1735 19th St Ste 100 //  Denver, CO 80202-6002
-  www.chophouse.com
 
 []
   Colorado Boy Pub & Brewery
@@ -121,15 +89,7 @@
   6995 W 38th Ave //  Wheat Ridge, CO 80033-4965
   www.cplusliquidartworks.com
 
-[]
-  CooperSmiths Pub and Brewing
-  5 Old Town Sq //  Fort Collins, CO 80524-2446
-  www.coopersmithspub.com
 
-[]
-  Dad & Dudes Breweria
-  6730 S Cornerstar Way Ste D //  Aurora, CO 80016-1571
-  www.daddudesbreweria.com
 
 []
   Dillon Dam Brewery
@@ -150,24 +110,13 @@
   Eldo Brewery and Taproom
   215 Elk Ave PO Box 21 //  Crested Butte, CO 81224-9608
 
-[]
-  Elk Mountain Brewing Co
-  18921 Plaza Dr Ste 104 // Parker, CO 80134-9679
-  www.elkmountainbrewing.com
 
-[]
-  FATE Brewing Company
-  1600 38th St Ste 100 // Boulder, CO 80301-2610
-  www.fatebrewingcompany.com
 
 []
   Floodstage Ale Works
   170 S Main St //  Brighton, CO 80601-1611
   www.floodstagealeworks.com
 
-[]
-  Freedom's Edge Brewing
-  224 Linden St //  Fort Collins, CO 80524-2424
 
 []
   Glenwood Canyon Brewing Co
@@ -213,10 +162,6 @@
   78491 US Hwy 40 //  Winter Park, CO 80482
   wp.librarysportsgrille.com
 
-[]
-  Lowdown Brewery + Kitchen
-  800 Lincoln St Unit 2 //  Denver, CO 80203-2710
-  www.lowdownbrewery.com
 
 []
   Mahogany Ridge Brewery & Grill
@@ -240,16 +185,6 @@
   Moonlight Pizza
   F and 3rd St //  Salida, CO 81201-1708
   www.moonlightpizza.biz
-
-[]
-  Mountain Sun Pub and Brewery
-  1535 Pearl St //  Boulder, CO 80302-5408
-  www.mountainsunpub.com
-
-[]
-  Mu Brewery
-  9735 E Colfax Ave //  Aurora, CO 80010-2107
-  www.brewbymu.com
 
 []
   Old Mill Brewery & Grill
@@ -281,10 +216,6 @@
   1756 Lake Woodmoor Dr //  Monument, CO 80132-9074
   www.pikespeakbrewing.com
 
-[]
-  Pints Pub Brewery and Freehouse
-  221 W 13th Ave //  Denver, CO 80204-2711
-  www.pintspub.com
 
 []
   Pitchers Brewery & Sports Shack
@@ -316,10 +247,6 @@
   331 Cinema Point Dr //  Colorado Springs, CO 80922
   www.rockbottom.com
 
-[]
-  Rock Bottom Brewery - Denver
-  1001 16th St Ste 100 //  Denver, CO 80265-0100
-  www.rockbottom.com
 
 []
   Rock Bottom Brewery - Englewood
@@ -341,10 +268,6 @@
   405 Main St //  Grand Junction, CO 81501-2511
   www.rockslidebrewpub.com
 
-[]
-  Rockyard American Grill & Brewing Company
-  880 Castleton Rd //  Castle Rock, CO 80109-7512
-  www.rockyard.com
 
 []
   Royal Gorge Brewing Co
@@ -361,10 +284,6 @@
   108 W 3rd St //  Pueblo, CO 81003-3225
   www.shamrockbrewing.com
 
-[]
-  Shine Brewing Co.
-  2027 13th St //  Boulder, CO 80302-5201
-  www.shineboulder.com
 
 []
   Smuggler's Brewpub
@@ -376,10 +295,6 @@
   297 US Hwy 285 //  Fairplay, CO 80440
   www.southparkbrewingco.com
 
-[]
-  Southern Sun Pub and Brewery
-  627 S Broadway St //  Boulder, CO 80305-5944
-  www.mountainsunpub.com
 
 []
   Steamworks Brewing Co
@@ -406,27 +321,10 @@
   820 Main St //  Louisville, CO 80027-1865
   www.twelvedegree.com
 
-[]
-  Vine Street Pub & Brewery
-  1700 Vine St //  Denver, CO 80206-1120
-  www.mountainsunpub.com
 
-[]
-  Walnut Brewery
-  1123 Walnut St //  Boulder, CO 80302-5116
-  www.walnutbrewery.com
 
 []
   Wild Mountain Smokehouse & Brewery
   70 First East St //  Nederland, CO 80466
   www.wildmountainsb.com
 
-[]
-  Wynkoop Brewing Co
-  1634 18th St // Denver, CO 80202-1212
-  www.wynkoop.com
-
-[]
-  Yak and Yeti
-  7803 Ralston Rd //  Arvada, CO 80002-2433
-  www.theyakandyeti.com
