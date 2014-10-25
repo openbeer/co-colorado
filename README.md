@@ -1,6 +1,16 @@
 # Beers, Breweries n Brewpubs in Colorado (CO), United States
 
 
+- [Denver and the Suburbs](1--denver-n-the-burbs)
+    - City
+    - Suburbs  -  Arvada, Aurora, Castle Rock, Golden, Lone Tree, Parker
+- [Boulder](2--boulder)
+- [Fort Collins](3--fort-collins)
+- [Front Range](4--front-range)  -  Estes Park, Greeley, Idaho Springs, Longmont, Loveland
+- [South Central](5--south-central) -  Alamosa, Buena Vista, Colorado Springs, Monument, Puebla, Salida, Woodland Park
+
+
+
 Free open public domain beer, brewery n brewpub data for Colorado (CO), United States / North America
 
 
