@@ -1,66 +1,63 @@
 
 - Fruit Beer #3
-
-Gold    | Cherry Kriek    |  Strange Brewing Co.  | Denver, CO
-Silver  | Apricot Blonde  |  Dry Dock Brewing Co. - North Dock | Aurora, CO
+    Gold    | Cherry Kriek    |  Strange Brewing Co.  | Denver, CO
+    Silver  | Apricot Blonde  |  Dry Dock Brewing Co. - North Dock | Aurora, CO
 
 - Herb and Spice Beer #6
-Bronze |  Señorita | Elevation Beer Co. | Poncha Springs, CO
+    Bronze |  Señorita | Elevation Beer Co. | Poncha Springs, CO
 
 - Chocolate Beer #7
-Gold   |  Shake Chocolate Porter |  Boulder Beer Co. | Boulder, CO
+    Gold   |  Shake Chocolate Porter |  Boulder Beer Co. | Boulder, CO
 
 - Coffee Beer #8
-Gold   |  Big Shot Espresso Stout | Twisted Pine Brewing Co. |  Boulder, CO
+    Gold   |  Big Shot Espresso Stout | Twisted Pine Brewing Co. |  Boulder, CO
 
 - Wood- and Barrel-Aged Strong Beer #21
-Bronze |  Bourbon Barrel Aged Mountain Man | Verboten Brewing | Loveland, CO
+    Bronze |  Bourbon Barrel Aged Mountain Man | Verboten Brewing | Loveland, CO
 
 - Baltic-Style Porter #29
-Silver |  The Baltic Gnome, Rock Bottom - Denver |  Denver, CO
+    Silver |  The Baltic Gnome, Rock Bottom - Denver |  Denver, CO
 
 - American-Style Lager or Light Lager or Pilsener #42
-
-Gold   |  Coors Light   | Coors Brewing Co.   | Golden, CO
-Bronze |  Coors Banquet | Coors Brewing Co.   | Golden, CO
+    Gold   |  Coors Light   | Coors Brewing Co.   | Golden, CO
+    Bronze |  Coors Banquet | Coors Brewing Co.   | Golden, CO
 
 - American-Style Amber Lager #44
-Gold  |  Winterfest  |  AC Golden Brewing Co. |  Golden, CO
+    Gold  |  Winterfest  |  AC Golden Brewing Co. |  Golden, CO
 
 - Australasian-Style Pale Ale or International-Style Pale Ale #46
-Silver | River Runners Pale Ale | Eddyline Brewing | Buena Vista, CO
+    Silver | River Runners Pale Ale | Eddyline Brewing | Buena Vista, CO
 
 - French- and Belgian-Style Saison #55
-Gold   |  Saison  | Aspen Brewing Co. | Aspen, CO
+    Gold   |  Saison  | Aspen Brewing Co. | Aspen, CO
 
 - Belgian-Style Blonde Ale or Pale Ale #57
-Bronze  |  Jean-Claude Van Blond  | Wit's End Brewing Co. | Denver, CO
+    Bronze  |  Jean-Claude Van Blond  | Wit's End Brewing Co. | Denver, CO
 
 - Belgian-Style Pale Strong Ale #62
-Silver   |  Deceit  |  Funkwerks  |  Fort Collins, CO
+    Silver   |  Deceit  |  Funkwerks  |  Fort Collins, CO
 
 - Ordinary or Special Bitter  #67
-Gold     |  Sawtooth Ale |  Left Hand Brewing Co. |  Longmont, CO
+    Gold     |  Sawtooth Ale |  Left Hand Brewing Co. |  Longmont, CO
 
 - English-Style Brown Ale #72
-Bronze  | No Name  |  Glenwood Canyon Brewing Co. |  Glenwood Springs, CO
+    Bronze  | No Name  |  Glenwood Canyon Brewing Co. |  Glenwood Springs, CO
 
 - Oatmeal Stout #76
-Silver  |  Pure Imagination  |  Verboten Brewing  |  Loveland, CO
+    Silver  |  Pure Imagination  |  Verboten Brewing  |  Loveland, CO
 
 - British-Style Imperial Stout #78
-Bronze |  Weapon of Self Destruction Imperial Stout  |  Riff Raff Brewing Co. | Pagosa Springs, CO
+    Bronze |  Weapon of Self Destruction Imperial Stout  |  Riff Raff Brewing Co. | Pagosa Springs, CO
 
 - Irish-Style Red Ale #81
-Gold  | George Killian's Irish Red  |  Coors Brewing Co. | Golden, CO
+    Gold  | George Killian's Irish Red  |  Coors Brewing Co. | Golden, CO
 
 - Foreign-Style Stout #83
-Bronze | Devil Dog Stout |  Red Leg Brewing Co. |  Colorado Springs, CO
+    Bronze | Devil Dog Stout |  Red Leg Brewing Co. |  Colorado Springs, CO
 
 - American-Style Pale Ale #85
-Bronze | Featherweight Pale  |  Cannonball Creek Brewing Co. |  Golden, CO
+    Bronze | Featherweight Pale  |  Cannonball Creek Brewing Co. |  Golden, CO
 
 - American-Style Amber/Red Ale  #89
-Gold |  Runoff  |  Odell Brewing Co. |  Fort Collins, CO
-
+    Gold |  Runoff  |  Odell Brewing Co. |  Fort Collins, CO
 
