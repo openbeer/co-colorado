@@ -2,40 +2,14 @@
 # Breweries in Colorado (CO) // Rocky Mountains
 
 
-_______________________________
-- Denver
-
-[flyingdog]
-  Flying Dog
-
-[wynkoop]
-  Wynkoop
-  // Denver, CO
-
-[crookedstave]
-  Crooked Stave Artisan Beer Project
-  // Denver, CO
-
-
-
 ________________________________
 - Colorado
 
 
 []
-  933 Brewing Co
-  4025 S Mason St //  Fort Collins, CO 80525-5953
-  www.1933brewing.com
-
-[]
   3 Freaks Brewing Co
   7140 E County Line Rd // Highlands Ranch, CO 80126-3926
   www.3freaksbrewery.com
-
-[]
-  300 Suns Brewing Company
-  335 1st Ave Unit C //  Longmont, CO 80501-5958
-  http://300sunsbrewing.com
 
 []
   38 State Brewing
@@ -51,11 +25,6 @@ ________________________________
   Arvada Beer Company
   5600 Olde Wadsworth Blvd //  Arvada, CO 80002-2533
   www.arvadabeer.com
-
-[]
-  Asher Brewing Co
-  4699 Nautilus Ct S Ste 104 //  Boulder, CO 80301-5306
-  www.asherbrewing.com
 
 []
   Aspen Brewing Company

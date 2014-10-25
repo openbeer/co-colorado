@@ -1,0 +1,13 @@
+
+
+[newbelgium]
+  New Belgium|New Belgium Brewing Co.|New Belgium Brewing Company
+  500 Linden St //  Fort Collins, CO 80524-2457
+  www.newbelgium.com
+
+[odell]
+  Odell|Odell Brewing Co.
+  800 E Lincoln Ave //  Fort Collins, CO 80524-2507
+  www.odellbrewing.com
+
+

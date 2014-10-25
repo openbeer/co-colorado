@@ -8,6 +8,8 @@
 - [Fort Collins](3--fort-collins)
 - [Front Range](4--front-range)  -  Estes Park, Greeley, Idaho Springs, Longmont, Loveland
 - [South Central](5--south-central) -  Alamosa, Buena Vista, Colorado Springs, Monument, Puebla, Salida, Woodland Park
+- [Northwest](6--northwest) -  Aspen, Carbondale, Dillon, Eagle, Edwards, Frisco, Glenwood Strings, Grand Junction, Grand Lake
+- [Southwest](7--southwest) - Crested Butte, Dolores, Durango, Montrose, Ouray, Pagosa Springs, Paonia, Ridgway, Silverton, Telluride
 
 
 

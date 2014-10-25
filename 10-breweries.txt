@@ -1,0 +1,23 @@
+
+# 10 largest breweries (in Barrels)
+
+
+ 20_000_000+  | Coors Brewery (MillerCoors) | Golden, CO    ## largest brewery in the world
+
+?  |  AC Golden Brewing Co (MillerCoors)  |  Golden, CO    ## craft brewery arm of Coors
+?  |  Blue Moon Brewing (MillerCoors)     | Denver, CO
+
+?  |  Anheuser-Busch Inc. - Fort Collins Brewery Plant (HQ in ??) |  Fort Collins, CO
+
+
+ 765_000 (2012) | New Belgium Brewing Co. | Fort Collings, CO
+  88_000 (2012) | Oskar Blues Brewery     | Lyons, CO          ## HQ now in Longmont, CO ?? 
+  67_000 (2012) | Odell Brewing Co.       | Fort Collins, CO
+  52_000 (2012) | Breckenridge Brewery    | Breckenridge, CO    ## HQ now in Denver, CO ??
+  50_000 (2012) | Left Hand Brewing Co.   | Longmont, CO
+
+  ? (15_000+ 2013)  | Avery Brewing Co.       | Boulder, CO
+  ? (15_000+ 2013)  | Boulder Beer Co.        | Boulder, CO
+  ? (15_000+ 2013)  | Great Divide Brewing Co.| Denver, CO
+  ? (15_000+ 2013)  | Ska Brewing
+

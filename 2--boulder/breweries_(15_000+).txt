@@ -1,0 +1,13 @@
+
+
+[avery]
+  Avery Brewing Co.|Avery Brewing Company
+  5763 Arapahoe Ave Ste E //  Boulder, CO 80303-1350
+  www.averybrewing.com
+
+[boulder]
+  Boulder Beer Co.|Boulder Beer Company
+  2880 Wilderness Pl //  Boulder, CO 80301-5401
+  www.boulderbeer.com
+
+
