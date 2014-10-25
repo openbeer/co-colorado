@@ -4,22 +4,21 @@
 
 
 [coors]
-  Coors|Coors Brewing Co.|Coors Brewing Company (MillerCoors)   # largest brewery in the world
-  // Golden, CO
+  Coors|Coors Brewing Co (MillerCoors), 1873
+  311 10th St //  Golden, CO 80401-5811
+## NOTE: largest single-site brewery in the world (22_000_000 barrels capacity)
+##   includes: Blue Moon Brewing Co | Golden, CO  - just "branding" for Blue Moon ??
+
 
 [millercoors]
   MillerCoors Brewing Co - Golden    ##  holding company for coors -  use/merge ??
   311 10th St //  Golden, CO 80401-5811
-
+  www.millercoors.com
 
 [acgolden]
-  AC Golden Brewing Company (MillerCoors)   ## craft brewing arm of coors ()
-  PO Box 4030  // Golden, CO 80402-4030
-  www.acgolden.com      # check: 6_000_000+ barrels production ???
-
-[]
-  Blue Moon Brewing Co at the Sandlot  (MillerCoors)
-  2145 Blake St //  Denver, CO 80205-2010
-  www.millercoors.com     # check: 6_000_000+ barrels production ???
-
+  AC Golden Brewing Co (MillerCoors), 2007
+  311 10th St //  Golden, CO 80401-5811
+  www.acgolden.com
+##  NOTE:  semi-autonomous craft brewery (7_500 barrels capacity)
+##            inside main Coors brewery (opened in 2007)
 

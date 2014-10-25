@@ -1,0 +1,51 @@
+###########################################################
+#  Great American Beer Festival (GABF) Winners
+#
+#  see www.greatamericanbeerfestival.com/the-competition/winners
+
+
+- American-Style Stout
+   Silver | Battlecat | Cannonball Creek Brewing Co  |  Golden
+
+- American-Style Wheat Beer
+    Bronze | Super 77 Wheat | Wiley Roots Brewing Co | Greeley
+
+- Bock
+    Bronze |  The Goat Rancher  | SandLot Brewery  |  Denver
+
+- Chocolate Beer
+    Gold | The Chocolate Oak Aged Yeti Imperial Stout | Great Divide Brewing Co | Fort Collins
+
+- Classic English-Style Pale Ale
+    Gold | 5 Barrel Pale Ale  |  Odell Brewing Co | Fort Collins
+
+- English-Style India Pale Ale
+    Bronze | USS Enterprise IPA |  Dry Dock Brewing Co |  North Dock, Aurora
+
+- English-Style Summer Ale
+     Gold |  True Blonde Ale |   Ska Brewing Co |  Durango
+
+- European-Style Dunkel
+     Bronze  | The Fearless Youth | Grimm Brothers Brewhouse | ??
+
+- Foreign-Style Stout
+    Gold  | Fade to Black Volume 1 |  Left Hand Brewing Co |  Longmont
+
+- German-Style Wheat Ale
+    Gold  | Slam Dunkel |  Steamworks Brewing Co |  Durango
+
+- Gluten-Free Beer
+    Bronze  | Gluten-Free Brown Ale  |  New Planet Beer | Boulder
+
+- Herb and Spice Beer
+    Silver  | Chai Milk Stout  | Yak & Yeti Brewpub  |  ??  ### Multiple Locations
+
+- Imperial Stout
+     Bronze  | Hammer and Sickle  |  Renegade Brewing Co |  Denver
+
+- Irish-Style Red Ale
+    Silver | Colorado Boy Irish Ale |  Colorado Boy Brewing Co |  Ridgway
+
+- Old Ale or Strong Ale
+    Bronze |  Mule Kick |  City Star Brewing | Berthoud
+

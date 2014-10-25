@@ -1,4 +1,11 @@
 
+[]
+  Blue Moon Brewing Co at the Sandlot (MillerCoors)
+  2145 Blake St //  Denver, CO 80205-2010
+  ##    NOTE:  small brewery (2_500 barrels capacity) inside baseball stadium (Sandlot) in Denver 
+
+
+
 [flyingdog]
   Flying Dog
   // Denver, CO

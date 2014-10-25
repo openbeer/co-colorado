@@ -1,7 +1,10 @@
 
 
-[ab]
-  Anheuser-Busch Inc - Fort Collins     ## NOTE: brewery plant - HQ in ???
+[abfortcollins]
+  Anheuser-Busch Inc - Fort Collins, 1988
   2351 Busch Dr // Fort Collins, CO 80524-9400
 
+## NOTE: 1 of 12 US brewery plants of Anheuser-Busch (HQ in St. Louis, Missouri)
+##  built/opened in 1988 - 2nd youngest and 3rd largest of 12(!) US brewery plants (2013)
+##   capacity: 10_500_000 barrels
 

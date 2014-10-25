@@ -1,0 +1,65 @@
+##########################################################
+#  Colorado's Best Craft Beers (5280 Denver Magazine)
+#
+#  see www.5280.com/magazine/2010/09/colorados-best-craft-beers
+
+
+- Pilsner/Lager
+
+Alpine Glacier Lager            |  Tommyknocker Brewery   | Idaho Springs
+Joe's Premium American Pilsner  |  Avery Brewing Co       | Boulder
+Del Norte Mañana                |  Del Norte Brewing Co   | Denver
+
+- Wheat
+
+White Rascal         | Avery Brewing Co       | Boulder
+Sweaty Betty Blonde  | Boulder Beer Co        | Boulder
+Mothership Wit       | New Belgium Brewing Co | Fort Collins
+
+- Pale Ale
+
+Dale's Pale Ale                | Oskar Blues Brewing Co   | Lyons
+Red Rocket Pale Ale            | Bristol Brewing Co       | Colorado Springs
+Jackman's American Pale Ale    | Left Hand Brewing Co     | Longmont
+Hazed & Infused Dry-Hopped Ale | Boulder Beer Co          | Boulder
+
+- India Pale Ale
+
+India Pale Ale   | Odell Brewing Co        | Fort Collins
+India Pale Ale   | Avery Brewing Co        | Boulder
+Titan IPA        | Great Divide Brewing Co | Denver
+Hoppy Boy IPA    | Twisted Pine Brewing Co | Boulder
+
+- Red/Amber Ales
+
+Red Ale            | Odell Brewing Co        | Fort Collins
+Gordon             | Oskar Blues Brewing Co  | Lyons
+Legendary Red Ale  | Golden City Brewery     | Golden
+Levity Amber Ale   | Odell Brewing Co        | Fort Collins
+
+- Scottish Ale
+
+Old Chub Scotch Ale             | Oskar Blues Brewing Co    | Lyons
+Laughing Lab Scottish-Style Ale | Bristol Brewing Co        | Colorado Springs
+Plaid Bastard                   | The Grand Lake Brewing Co | Grand Lake
+
+- Brown Ale
+
+Ellie's Brown Ale           | Avery Brewing Co          |  Boulder
+Flashback Anniversary Ale   | Boulder Beer Co           |  Boulder
+Wooly Booger Nut Brown Ale  | The Grand Lake Brewing Co |  Grand Lake
+
+- Porter
+
+Cutthroat Porter    | Odell Brewing Co      |  Fort Collins
+Black Jack Porter   | Left Hand Brewing Co  |  Longmont
+Ten Pin Porter      | Ska Brewing Company   |  Durango
+
+- Stout
+
+Milk Stout           | Left Hand Brewing Co      |  Longmont
+Yeti Imperial Stout  | Great Divide Brewing Co   |  Denver
+Chocolate Stout      | The Fort Collins Brewery  |  Fort Collins
+
+
+
