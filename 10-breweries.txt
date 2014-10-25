@@ -39,3 +39,10 @@
 ##   2_500 (capacity)  |  Blue Moon Brewing at the Sandlot (MillerCoors)     | Denver, CO    
 ##    NOTE:  small brewery inside baseball stadium (Sandlot) in Denver 
 
+
+
+###########
+##  facts (by brewers association)
+#
+#   175 craft breweries (#4, #4 per capita), 1_413_242 barrels production (in 2013 - #3)
+
