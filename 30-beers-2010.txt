@@ -6,60 +6,59 @@
 
 - Pilsner/Lager
 
-Alpine Glacier Lager            |  Tommyknocker Brewery   | Idaho Springs
-Joe's Premium American Pilsner  |  Avery Brewing Co       | Boulder
-Del Norte Mañana                |  Del Norte Brewing Co   | Denver
+Alpine Glacier Lager            |  Tommyknocker Brewery   | Idaho Springs, CO
+Joe's Premium American Pilsner  |  Avery Brewing Co       | Boulder, CO
+Del Norte Mañana                |  Del Norte Brewing Co   | Denver, CO
 
 - Wheat
 
-White Rascal         | Avery Brewing Co       | Boulder
-Sweaty Betty Blonde  | Boulder Beer Co        | Boulder
-Mothership Wit       | New Belgium Brewing Co | Fort Collins
+White Rascal         | Avery Brewing Co       | Boulder, CO
+Sweaty Betty Blonde  | Boulder Beer Co        | Boulder, CO
+Mothership Wit       | New Belgium Brewing Co | Fort Collins, CO
 
 - Pale Ale
 
-Dale's Pale Ale                | Oskar Blues Brewing Co   | Lyons
-Red Rocket Pale Ale            | Bristol Brewing Co       | Colorado Springs
-Jackman's American Pale Ale    | Left Hand Brewing Co     | Longmont
-Hazed & Infused Dry-Hopped Ale | Boulder Beer Co          | Boulder
+Dale's Pale Ale                | Oskar Blues Brewing Co   | Lyons, CO
+Red Rocket Pale Ale            | Bristol Brewing Co       | Colorado Springs, CO
+Jackman's American Pale Ale    | Left Hand Brewing Co     | Longmont, CO
+Hazed & Infused Dry-Hopped Ale | Boulder Beer Co          | Boulder, CO
 
 - India Pale Ale
 
-India Pale Ale   | Odell Brewing Co        | Fort Collins
-India Pale Ale   | Avery Brewing Co        | Boulder
-Titan IPA        | Great Divide Brewing Co | Denver
-Hoppy Boy IPA    | Twisted Pine Brewing Co | Boulder
+India Pale Ale   | Odell Brewing Co        | Fort Collins, CO
+India Pale Ale   | Avery Brewing Co        | Boulder, CO
+Titan IPA        | Great Divide Brewing Co | Denver, CO
+Hoppy Boy IPA    | Twisted Pine Brewing Co | Boulder, CO
 
 - Red/Amber Ales
 
-Red Ale            | Odell Brewing Co        | Fort Collins
-Gordon             | Oskar Blues Brewing Co  | Lyons
-Legendary Red Ale  | Golden City Brewery     | Golden
-Levity Amber Ale   | Odell Brewing Co        | Fort Collins
+Red Ale            | Odell Brewing Co        | Fort Collins, CO
+Gordon             | Oskar Blues Brewing Co  | Lyons, CO
+Legendary Red Ale  | Golden City Brewery     | Golden, CO
+Levity Amber Ale   | Odell Brewing Co        | Fort Collins, CO
 
 - Scottish Ale
 
-Old Chub Scotch Ale             | Oskar Blues Brewing Co    | Lyons
-Laughing Lab Scottish-Style Ale | Bristol Brewing Co        | Colorado Springs
-Plaid Bastard                   | The Grand Lake Brewing Co | Grand Lake
+Old Chub Scotch Ale             | Oskar Blues Brewing Co    | Lyons, CO
+Laughing Lab Scottish-Style Ale | Bristol Brewing Co        | Colorado Springs, CO
+Plaid Bastard                   | The Grand Lake Brewing Co | Grand Lake, CO
 
 - Brown Ale
 
-Ellie's Brown Ale           | Avery Brewing Co          |  Boulder
-Flashback Anniversary Ale   | Boulder Beer Co           |  Boulder
-Wooly Booger Nut Brown Ale  | The Grand Lake Brewing Co |  Grand Lake
+Ellie's Brown Ale           | Avery Brewing Co          |  Boulder, CO
+Flashback Anniversary Ale   | Boulder Beer Co           |  Boulder, CO
+Wooly Booger Nut Brown Ale  | The Grand Lake Brewing Co |  Grand Lake, CO
 
 - Porter
 
-Cutthroat Porter    | Odell Brewing Co      |  Fort Collins
-Black Jack Porter   | Left Hand Brewing Co  |  Longmont
-Ten Pin Porter      | Ska Brewing Company   |  Durango
+Cutthroat Porter    | Odell Brewing Co      |  Fort Collins, CO
+Black Jack Porter   | Left Hand Brewing Co  |  Longmont, CO
+Ten Pin Porter      | Ska Brewing Company   |  Durango, CO
 
 - Stout
 
-Milk Stout           | Left Hand Brewing Co      |  Longmont
-Yeti Imperial Stout  | Great Divide Brewing Co   |  Denver
-Chocolate Stout      | The Fort Collins Brewery  |  Fort Collins
-
+Milk Stout           | Left Hand Brewing Co      |  Longmont, CO
+Yeti Imperial Stout  | Great Divide Brewing Co   |  Denver, CO
+Chocolate Stout      | The Fort Collins Brewery  |  Fort Collins, CO
 
 
