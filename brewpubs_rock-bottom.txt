@@ -1,0 +1,38 @@
+###########################################
+# All Rock Bottom Breweries in Colorado
+#
+#    www.rockbottom.com
+
+## todo: add/sort by regions
+
+
+[]
+  Rock Bottom Brewery - Denver
+  1001 16th St Ste 100 //  Denver, CO 80265
+  www.rockbottom.com
+
+[]
+  Rock Bottom Brewery - Centerra Promenade
+  6025 Sky Pond Dr //  Loveland, CO 80538
+  www.rockbottom.com
+
+[]
+  Rock Bottom Brewery - Colorado Springs
+  331 Cinema Point Dr //  Colorado Springs, CO 80922
+  www.rockbottom.com
+
+[]
+  Rock Bottom Brewery - Englewood
+  9627 E County Line Rd //  Englewood, CO 80112
+  www.rockbottom.com
+
+[]
+  Rock Bottom Brewery - Orchard Cntr
+  14694 Orchard Pkwy Unit 400 //  Westminster, CO 80023
+  www.rockbottom.com
+
+[]
+  Rock Bottom Brewery - Westminster
+  10633 Westminster Blvd Unit 900 //  Westminster, CO 80020
+  www.rockbottom.com
+

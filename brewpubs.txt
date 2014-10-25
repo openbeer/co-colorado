@@ -43,27 +43,6 @@
 
 
 []
-  C.B. and Potts/Big Horn Brewery - Broomfield
-  555 Zang St //  Broomfield, CO 80021-8221
-  www.cbpotts.com
-
-[]
-  C.B. and Potts/Big Horn Brewery - Englewood
-  6575 Greenwood Plaza Blvd //  Englewood, CO 80111-4933
-  www.cbpotts.com
-
-
-[]
-  C.B. and Potts/Big Horn Brewery - Highlands Ranch
-  43 Centennial Blvd //  Highlands Ranch, CO 80129-2323
-  www.cbpotts.com
-
-[]
-  C.B. and Potts/Big Horn Brewery - Westminster
-  1257 W 120th Ave //  Westminster, CO 80234-2725
-  www.cbpotts.com
-
-[]
   Carbondale Beer Works
   647 Main St //  Carbondale, CO 81623-1934
   www.carbondalebeerworks.com
@@ -109,7 +88,6 @@
 []
   Eldo Brewery and Taproom
   215 Elk Ave PO Box 21 //  Crested Butte, CO 81224-9608
-
 
 
 []
@@ -236,32 +214,6 @@
   Riff Raff Brewing
   274 Pagosa St //  Pagosa Springs, CO 81147
   www.riffraffbrewing.com
-
-[]
-  Rock Bottom Brewery - Centerra Promenade
-  6025 Sky Pond Dr //  Loveland, CO 80538-9013
-  www.rockbottom.com
-
-[]
-  Rock Bottom Brewery - Colorado Springs
-  331 Cinema Point Dr //  Colorado Springs, CO 80922
-  www.rockbottom.com
-
-
-[]
-  Rock Bottom Brewery - Englewood
-  9627 E County Line Rd //  Englewood, CO 80112-3502
-  www.rockbottom.com
-
-[]
-  Rock Bottom Brewery - Orchard Cntr
-  14694 Orchard Pkwy Unit 400 //  Westminster, CO 80023-9198
-  www.rockbottom.com
-
-[]
-  Rock Bottom Brewery - Westminster
-  10633 Westminster Blvd Unit 900 //  Westminster, CO 80020-4176
-  www.rockbottom.com
 
 []
   Rockslide Brewing Co

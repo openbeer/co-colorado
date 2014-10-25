@@ -1,0 +1,29 @@
+############################################
+#  All C.B. & Potts Breweries in Colorado
+#
+#  www.cbpotts.com 
+
+## todo: add/sort by regions
+
+
+[]
+  C.B. and Potts/Big Horn Brewery - Broomfield
+  555 Zang St //  Broomfield, CO 80021
+  www.cbpotts.com
+
+[]
+  C.B. and Potts/Big Horn Brewery - Englewood
+  6575 Greenwood Plaza Blvd //  Englewood, CO 80111
+  www.cbpotts.com
+
+[]
+  C.B. and Potts/Big Horn Brewery - Highlands Ranch
+  43 Centennial Blvd //  Highlands Ranch, CO 80129
+  www.cbpotts.com
+
+[]
+  C.B. and Potts/Big Horn Brewery - Westminster
+  1257 W 120th Ave //  Westminster, CO 80234
+  www.cbpotts.com
+
+
