@@ -1,0 +1,108 @@
+###########################################################
+#  Great American Beer Festival (GABF) Winners
+#   - 39  winners from Colorado
+#
+#  see www.greatamericanbeerfestival.com/the-competition/winners
+
+
+- American-Style Amber Lager
+    Gold   |  Colorado Native Amber Lager  |  AC Golden |  Golden, CO
+    Silver |  Colorado Native Golden Lager |  AC Golden |  Golden, CO
+
+- American-Style Black Ale
+    Gold |  Black IPA |  Cannonball Creek Brewing Co. |  Golden, CO
+
+- American-Style Brown Ale
+    Gold   |  Face Down Brown     |  Telluride Brewing Co. |  Telluride, CO
+    Silver |  Braggarts Brown Ale |  Diebolt Brewing Co.   |  Denver, CO
+    Bronze |  Upslope Brown Ale   |  Upslope Brewing Co.   |  Boulder, CO
+
+- American-Style Cream Ale
+    Bronze |  Colorado Cream Ale |  Station 26 Brewing Co. |  Denver, CO
+
+- American-Style Fruit Beer
+    Silver |  Sleepyhead Passion Fruit |  Coda Brewing Co.  |  Aurora, CO
+    Bronze |  Apricot                  |  Dry Dock Brewing Co. - North Dock |  Aurora, CO
+
+- American-Style Lager or Light Lager
+    Silver |  Coors Light   |  Coors Brewing Co. |  Golden, CO
+    Bronze |  Coors Banquet |  Coors Brewing Co. |  Golden, CO
+
+- American-Style or International-Style Pilsener
+    Silver |  Howdy Beer |  The Post Brewing Co. |  Lafayette, CO
+
+- Belgian-Style Blonde Ale or Pale Ale
+    Gold |  Jean-Claude Van Blond |  Wit's End Brewing Co. |  Denver, CO
+
+- Belgian-Style Fruit Beer
+    Gold |  Raspberry Provincial |  Funkwerks |  Fort Collins, CO
+
+- Bohemian-Style Pilsener
+    Silver |  Patio Pounding Pilz |  LowDown Brewery + Kitchen |  Denver, CO
+
+- Brown Porter
+    Silver |  Black Jack Porter |  Left Hand Brewing Co. |  Longmont, CO
+
+- Chocolate Beer
+    Silver |  Death By Coconut |  Oskar Blues Brewery |  Longmont, CO
+
+- Classic Irish-Style Dry Stout
+    Silver |  Shaft House Stout |  Dostal Alley Brewpub & Casino |  Central City, CO
+
+- Dortmunder or German-Style Oktoberfest
+    Gold   |  The Weasel |  CB & Potts Restaurant & Brewery - Highlands Ranch |  Highlands Ranch, CO
+    Bronze |  Move Back  |  The Sandlot                                       |  Denver, CO
+
+- English-Style Mild Ale
+    Bronze |  S.S. Minnow Mild Ale |  Dry Dock Brewing Co. - South Dock |  Aurora, CO
+
+- English-Style Summer Ale
+    Gold |  True Blonde Ale |  Ska Brewing Co. |  Durango, CO
+
+- Experimental Beer
+    Bronze |  Black Project #1 |  Former Future Brewing Co. |  Denver, CO
+
+- Field Beer
+    Silver |  3 Pepper Ale |  Rock Bottom Breweries |  Broomfield, CO
+    Bronze |  Elektrick Cukumbahh |  Trinity Brewing Co. |  Colorado Springs, CO
+
+- Fresh or Wet Hop Ale
+    Silver |  Fresh Hop Superpower IPA |  Comrade Brewing Co. |  Denver, CO
+
+- Fruit Wheat Beer
+    Silver |  Peachy Peach |  Pagosa Brewing & Grill |  Pagosa Springs, CO
+
+- German-Style Doppelbock or Eisbock
+    Silver |  The Kaiser |  Avery Brewing Co. |  Boulder, CO
+
+- German-Style Kölsch
+    Gold |  Laimas Kolsch |  FATE Brewing Co. |  Boulder, CO
+
+- Gluten-Free Beer
+    Silver |  Glutart                |  Bonfire Brewing   |  Eagle, CO
+    Bronze |  Liberation Gluten Free |  Shine Brewing Co. |  Boulder, CO
+
+- Irish-Style Red Ale
+    Gold |  Rado's Red Ale |  Crow Hop Brewing Co. |  Loveland, CO
+
+- Munich-Style Helles
+    Gold |  Golden Export |  Gordon Biersch Brewery Restaurant |  Broomfield, CO
+
+- Oatmeal Stout
+    Bronze |  Backside Stout |  Steamworks Brewing Co. |  Durango, CO
+
+- Scotch Ale
+    Silver |  Loch |  BRU Handbuilt Ales & Eats |  Boulder, CO
+
+- Smoke Beer
+    Silver |  Smokejumper Smoked Imperial Porter |  Left Hand Brewing Co. |  Longmont, CO
+
+- Specialty Honey Beer
+    Bronze |  Blue Moon Honey Grand Cru |  Blue Moon Brewing Co. |  Denver, CO
+
+- Sweet Stout or Cream Stout
+    Silver |  Milk Stout |  Left Hand Brewing Co. |  Longmont, CO
+
+- Vienna-Style Lager
+    Silver |  Gumps |  Platt Park Brewing Co. |  Denver, CO
+
